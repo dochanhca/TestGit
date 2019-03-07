@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.e(TAG, "On Create");
+        Log.e(TAG, "On Create - aa");
     }
 
     @Override

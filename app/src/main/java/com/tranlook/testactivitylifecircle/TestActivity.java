@@ -17,7 +17,7 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e(TAG, "On Create");
+        Log.e(TAG, "On Create aa");
     }
 
     @Override
