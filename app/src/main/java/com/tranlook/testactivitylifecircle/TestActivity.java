@@ -23,7 +23,7 @@ public class TestActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        Log.e(TAG, "On Pause");
+        Log.e(TAG, "On Pause eeee");
     }
 
     @Override
