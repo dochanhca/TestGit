@@ -29,7 +29,7 @@ public class TestActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Log.e(TAG, "On Stop");
+        Log.e(TAG, "On Stop ggg");
     }
 
     @Override
