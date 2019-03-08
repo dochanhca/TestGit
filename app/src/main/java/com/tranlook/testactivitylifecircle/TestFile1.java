@@ -9,6 +9,6 @@ public class TestFile1 {
     }
 
     void test2() {
-
+        int i = 0;
     }
 }
