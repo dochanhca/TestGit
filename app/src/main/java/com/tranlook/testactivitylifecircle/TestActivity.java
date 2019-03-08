@@ -36,6 +36,8 @@ public class TestActivity extends AppCompatActivity {
     protected void onDestroy() {
         super.onDestroy();
         Log.e(TAG, "On Destroy");
+        Log.e(TAG, "On Destroy");
+        Log.e(TAG, "On Destroy 3");
 
     }
 }
