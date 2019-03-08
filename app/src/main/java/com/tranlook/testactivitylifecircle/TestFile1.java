@@ -7,4 +7,8 @@ public class TestFile1 {
     void test() {
 
     }
+
+    void test2() {
+
+    }
 }
